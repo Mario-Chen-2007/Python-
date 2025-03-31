@@ -4,7 +4,7 @@
 
 
 ## Project Source Codes: 
-1. [MoveToTheEnd](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/MoveToTheEnd.py)
+1. [StepUp](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/StepUp.py)
 2. [PotholeFilling](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/PotholeFilling.py)
-3. 
-
+3. [MoveToTheEnd](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/MoveToTheEnd.py)
+4. 
