@@ -3,7 +3,7 @@ File: PotholeFilling.py
 Name: Mario
 --------------------------
 This program shows karel filling 3
-potholes. Students learn the concept of
+potholes. I learn the concept of
 decomposition through the process.
 """
 
@@ -32,9 +32,9 @@ def go_out():
 
 def main():
     """
-    TODO:
+    Pre-condition: Karel is at the upper left of the pothole, facing east.
+    post-condition: Karel is at the third pothole upper left hand side, facing east, and put 99 beeper in every pothole.
     """
-    pass
     for i in range(3):
         go_in()
         put_99beeper()
