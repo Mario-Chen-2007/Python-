@@ -9,6 +9,7 @@
 2. [PotholeFilling](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/PotholeFilling.py)
    : Quiz about how to put 99 beepers un to every Pothole. 
 3. [MoveToTheEnd](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/MoveToTheEnd.py)
-6. [BeeperRow](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRow.py)
-7. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
-8. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
+   : Study how to use while loop.
+4. [BeeperRow](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRow.py)
+5. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
+6. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
