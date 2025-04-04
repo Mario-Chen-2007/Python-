@@ -12,5 +12,7 @@
    : Study how to use while loop.
 4. [BeeperRow](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRow.py)
    : Practice finding Off-By-One Bug in this function.
-6. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
-7. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
+5. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
+   : Distinguish the difference between While and if statements.
+6. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
+   : Try to use While and if to complete the wall climbing challenge.
