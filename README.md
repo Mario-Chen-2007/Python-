@@ -5,7 +5,7 @@
 
 ## Project Source Codes: 
 1. [StepUp](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/StepUp.py)
-   1
+   : Study how to define function and use for loop. 
 3. [PotholeFilling](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/PotholeFilling.py)
 4. [MoveToTheEnd](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/MoveToTheEnd.py)
 5. [BeeperRow](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRow.py)
