@@ -11,5 +11,6 @@
 3. [MoveToTheEnd](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture01/MoveToTheEnd.py)
    : Study how to use while loop.
 4. [BeeperRow](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRow.py)
-5. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
-6. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
+   : Practice finding Off-By-One Bug in this function.
+6. [BeeperRowAdv](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/BeeperRowAdv.py)
+7. [Steeplechase](https://github.com/Mario-Chen-2007/Python-/blob/main/SC001_lecture02/Steeplechase.py)
